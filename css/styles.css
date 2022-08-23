@@ -12,8 +12,7 @@ header
 #foto
 {
     height: 146.37px;
-    padding-top: 20.91px;
-    padding-bottom: 20.91px;
+    padding: 20.91px 0px;
 }
 
 h1
@@ -21,10 +20,8 @@ h1
     color:#005677;
     font-family: 'Times New Roman';
     font-size: 35px;
-    margin-top: 0%;
-    margin-bottom: 0%;
-    padding-top: 14.13px;
-    padding-bottom: 16px;
+    margin: 0%;
+    padding: 14.13px 0px 16px;
     text-align: center;
     background-color:#C4C4C4;
 }
@@ -33,9 +30,7 @@ h2
 {
     background-color: #C4C4C4;
     color: #005677;
-    padding-left: 12.45px;
-    padding-top: 6px;
-    padding-bottom: 7px;
+    padding: 6px 0px 7px 12.45px;
 }
 
 #primerH2
@@ -61,8 +56,8 @@ span
 .seccionArt
 {   
     margin-top: 10px;
-    font-weight: bold;
     padding-left: 25px;
+    font-weight: bold;
     display: flex;
     flex-direction: row;
 }
